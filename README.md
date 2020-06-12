@@ -28,7 +28,6 @@ If you don't have any GPUs, remove --gpus option.
 
 ### Enter the running container
 
-```
 docker attach DrawingRecognition
 ```
 
